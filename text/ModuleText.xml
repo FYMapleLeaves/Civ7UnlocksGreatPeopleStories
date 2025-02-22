@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_MODULE_UNLOCK_GREAT_PEOPLE_STORIES_NAME">
+			<Text>Unlocks Stories of All Great People</Text>
+		</Row>
+		<Row Tag="LOC_MODULE_UNLOCK_GREAT_PEOPLE_STORIES_DESCRIPTION">
+			<Text>This mod unlocks all stories associated with all Civilization Unique Great People Units. In Civilization 7, there is a chance to trigger a story related to the Great Person after retiring. In general, 1 out of 10 Great People will be triggered at random. This mod has changed the probability of triggering to 100%, making it easier for players to experience all the stories associated with great people. However, it is also important to note that these stories will have some bonuses that will affect the gameplay of the game.</Text>
+		</Row>
+		<Row Tag="LOC_MODULE_UNLOCK_GREAT_PEOPLE_STORIES_AUTHOR">
+			<Text>Maple_Leaves</Text>
+		</Row>
+	</EnglishText>
+
+  <LocalizedText>
+    <Replace Tag="LOC_MODULE_UNLOCK_GREAT_PEOPLE_STORIES_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>文明7中，在激活特色伟人后，有概率触发一段与该伟人有关的故事。一般来说，会在10个伟人中随机触发1个。这个mod把触发故事的概率改为100%，方便玩家体验所有伟人关联的故事。但是也要注意，这些故事都会有一些奖励，所以会影响游戏的游玩。</Text>
+    </Replace>
+    <Replace Tag="LOC_MODULE_UNLOCK_GREAT_PEOPLE_STORIES_NAME" Language="zh_Hans_CN">
+      <Text>解锁所有伟人关联的故事</Text>
+    </Replace>
+	  <Replace Tag="LOC_MODULE_UNLOCK_GREAT_PEOPLE_STORIES_AUTHOR" Language="zh_Hans_CN">
+      <Text>枫叶(Maple_Leaves)</Text>
+    </Replace>
+
+    <Replace Tag="LOC_MODULE_UNLOCK_GREAT_PEOPLE_STORIES_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>文明7中，在激活特色伟人后，有概率触发一段与该伟人有关的故事。一般来说，会在10个伟人中随机触发1个。这个mod把触发故事的概率改为100%，方便玩家体验所有伟人关联的故事。但是也要注意，这些故事都会有一些奖励，所以会影响游戏的游玩。</Text>
+    </Replace>
+    <Replace Tag="LOC_MODULE_UNLOCK_GREAT_PEOPLE_STORIES_NAME" Language="zh_Hant_HK">
+      <Text>解锁所有伟人关联的故事</Text>
+    </Replace>
+	<Replace Tag="LOC_MODULE_UNLOCK_GREAT_PEOPLE_STORIES_AUTHOR" Language="zh_Hant_HK">
+      <Text>枫叶(Maple_Leaves)</Text>
+    </Replace>
+  </LocalizedText>
+</Database>
